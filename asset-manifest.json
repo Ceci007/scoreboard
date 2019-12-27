@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scoreboard/static/css/main.140df8a8.chunk.css",
+    "main.js": "/scoreboard/static/js/main.cdc81c20.chunk.js",
+    "main.js.map": "/scoreboard/static/js/main.cdc81c20.chunk.js.map",
+    "runtime-main.js": "/scoreboard/static/js/runtime-main.a5384c14.js",
+    "runtime-main.js.map": "/scoreboard/static/js/runtime-main.a5384c14.js.map",
+    "static/js/2.f0ef8b63.chunk.js": "/scoreboard/static/js/2.f0ef8b63.chunk.js",
+    "static/js/2.f0ef8b63.chunk.js.map": "/scoreboard/static/js/2.f0ef8b63.chunk.js.map",
+    "index.html": "/scoreboard/index.html",
+    "precache-manifest.cb062af7e4ef08cdc5ef2b3aa09e158f.js": "/scoreboard/precache-manifest.cb062af7e4ef08cdc5ef2b3aa09e158f.js",
+    "service-worker.js": "/scoreboard/service-worker.js",
+    "static/css/main.140df8a8.chunk.css.map": "/scoreboard/static/css/main.140df8a8.chunk.css.map",
+    "static/js/2.f0ef8b63.chunk.js.LICENSE": "/scoreboard/static/js/2.f0ef8b63.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5384c14.js",
+    "static/js/2.f0ef8b63.chunk.js",
+    "static/css/main.140df8a8.chunk.css",
+    "static/js/main.cdc81c20.chunk.js"
+  ]
+}
