@@ -1,6 +1,6 @@
 # Scoreboard
 
-A scoreboard tracker made with React.Js with functionality that resembles a real scoreboard from a video game or similar. 
+A scoreboard tracker made with React, with functionality that resembles a real scoreboard from a video game or similar. 
   
 ![screenshot](./app_screenshot.png) 
 
